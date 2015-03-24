@@ -1,2 +1,3 @@
 # FortuneFinderApp
-created with Tyler Kagy in CSIPH @ WHS
+Created with Tyler Kagy in CSIPH @ WHS
+
