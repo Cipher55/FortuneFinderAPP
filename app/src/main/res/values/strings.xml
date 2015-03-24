@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fortune Finder</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_open">OPEN</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">Your Fortune</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">Search</string>
+    <string name="imagetitle">cookie</string>
+    <string name="title_activity_other">Your Fortune Is...</string>
+
+</resources>
